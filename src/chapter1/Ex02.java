@@ -19,13 +19,13 @@ public class Ex02 {
 //		System.out.print("첫 번째 날입니다.");
 		
 		// 정수
-//		System.out.println(1);
-//		// 실수
-//		System.out.println(3.14);
-//		// 문자
-//		System.out.println('a');
-//		//문자열
-//		System.out.println("abcd");
+		System.out.println(1);
+		// 실수
+		System.out.println(3.14);
+		// 문자
+		System.out.println('a');
+		//문자열
+		System.out.println("abcd");
 		
 		System.out.println("오늘의 기온 : " + -5.3 + "ºC");
 		
